@@ -1,0 +1,8 @@
+{
+  "ips": null,
+  "msg_to_send": null,
+  "listening_port": null,
+  "output_report_path": null,
+  "service_runs": 3,
+  "max_wait_before_restart_service_secs": 5
+}

@@ -1,0 +1,35 @@
+{
+  "name": "droplet_deployer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maidsafe/QA.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maidsafe/QA/issues"
+  },
+  "homepage": "https://github.com/maidsafe/QA#readme",
+  "dependencies": {
+    "async": "^1.4.2",
+    "cli-table": "^0.3.1",
+    "fs-extra": "^0.24.0",
+    "progress": "^1.1.8",
+    "request-json": "^0.5.3",
+    "scp2": "^0.2.2",
+    "ssh2": "^0.4.12"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "jshint-stylish": "~0.4.0",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-jscs": "^1.5.0",
+    "load-grunt-tasks": "~0.6.0"
+  }
+}
